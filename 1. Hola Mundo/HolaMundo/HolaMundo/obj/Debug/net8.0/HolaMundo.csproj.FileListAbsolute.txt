@@ -1,0 +1,14 @@
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\Users\sugus\source\repos\1. Hola Mundo\HolaMundo\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll
