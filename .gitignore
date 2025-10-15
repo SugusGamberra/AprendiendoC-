@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+bin/
+obj/
+.vscode/
+.idea
+.idea/
+packages/
+*.nupkg
+_ReSharper*/
+*.DotSettings.user
