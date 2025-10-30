@@ -17,8 +17,8 @@ El curso está dividido en módulos. Iremos paso a paso, con explicaciones senci
 | Módulo | Tema Principal | Archivo / Carpeta | Estado |
 | :--- | :--- | :--- | :--- |
 | **01** | Variables y concatenar | [VARIABLES](./1.%20Variables/README.md) | ✅ Listo |
-| **02** | Operadores aritméticos | [OPERADORES ARITMÉTICOS](2.%20Operadores%20aritméticos/README.md) | ✅ Listo |
-| **03** | Estructuras de control de flujo | - | ⏳ Pendiente |
+| **02** | Operadores aritméticos | [OPERADORES ARITMÉTICOS](./2.%20Operadores%20aritméticos/README.md) | ✅ Listo |
+| **03** | Estructuras de control de flujo | [CONTROL DE FLUJOS](./3.%20Estructuras%20de%20control%20de%20flujo/README.md) | ✅ Listo |
 | **04** | Modulación | - | ⏳ Pendiente |
 | **05** | Arrays y listas | - | ⏳ Pendiente |
 | **06** | Diccionarios | - | ⏳ Pendiente |
