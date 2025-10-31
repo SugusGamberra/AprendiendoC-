@@ -101,5 +101,14 @@ class Program
 
         Console.WriteLine("Por finnn!! Pasa anda!!");
 
+        // For each
+
+        string[] frutas = { "Manzana", "Banana", "Cereza" };
+
+        foreach (string fruta in frutas)
+        {
+            Console.WriteLine("Fruta: " + fruta);
+        }
+
     }
 }
